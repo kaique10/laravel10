@@ -1,0 +1,4 @@
+
+config/app.php 
+
+   - mudar timezone para 'America/Sao Paulo'
